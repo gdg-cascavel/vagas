@@ -1,13 +1,13 @@
 <!-- 
 ==================================================
-POR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END!
+POR FAVOR, SÓ POSTE SE A VAGA FOR PARA CASCAVEL OU REMOTO!
 
 Não faça distinção de gênero no título da vaga.
 
 Use: "Front-End Developer" ao invés de 
 "Desenvolvedor Front-End" \o/
 
-Exemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`
+Exemplo: `Front-End Developer na [NOME DA EMPRESA]`
 ==================================================
 -->
 
@@ -17,7 +17,7 @@ Projeto bazinga em NodeJS, etc.
 
 ## Local
 
-Remoto ou Escritório, São Paulo - Vila Olímpia
+Remoto ou Cascavel
 
 ## Benefícios
 
